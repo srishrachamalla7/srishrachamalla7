@@ -12,7 +12,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=srishrachamalla7&theme=dark)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=srishrachamalla7&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophiesss
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=srishrachamalla7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
@@ -20,6 +20,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=srishrachamalla7&limit=5&theme=dark&combine_all_yearly_contributions=true)
----
 ---
 [![](https://visitcount.itsvg.in/api?id=srishrachamalla7&icon=0&color=0)](https://visitcount.itsvg.in)
